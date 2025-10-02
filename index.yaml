@@ -3,12 +3,12 @@ entries:
   vite-testing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-02T22:09:13.423626723+08:00"
+    created: "2025-10-02T22:32:18.492649767+08:00"
     description: A Helm chart for Kubernetes
-    digest: 3b794235e0a730f44fe1ab354d9bcfb4b28ee3135d173411d54cb2184ed2e5df
+    digest: e2718cb6ff5ddc53cfc0f4e9de65a4d0056017773804b86a1ab659cc626c2588
     name: vite-testing
     type: application
     urls:
     - https://jeniel.github.io/vite-helmsample/vite-testing-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-02T22:09:13.422821778+08:00"
+generated: "2025-10-02T22:32:18.491984595+08:00"
