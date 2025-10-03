@@ -3,12 +3,12 @@ entries:
   vite-testing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-03T07:28:07.600572528+08:00"
+    created: "2025-10-03T08:56:06.751472215+08:00"
     description: A Helm chart for helm testing
-    digest: b37958dd8bdd984678f8c2e0d372687d9065961b1fdea5ebcf2766f46175c708
+    digest: d603dbd3cc3026c114c9ddc1bb8d8ac9dc1b08f1bf875ba06a2f0c0d268beee2
     name: vite-testing
     type: application
     urls:
     - https://jeniel.github.io/helmvitoo/vite-testing-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-03T07:28:07.599829438+08:00"
+generated: "2025-10-03T08:56:06.750828545+08:00"
