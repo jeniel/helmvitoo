@@ -1,0 +1,10 @@
+---
+repositories:
+  - name: helloworld
+    url: git+https://github.com/jeniel/helmvitoo
+
+releases:
+  - name: vite-using-hemfile
+    chart: ./vite-testing
+    installed: true 
+
